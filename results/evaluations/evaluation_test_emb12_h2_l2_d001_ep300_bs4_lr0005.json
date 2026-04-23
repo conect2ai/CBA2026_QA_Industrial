@@ -1,0 +1,233 @@
+{
+  "total_loss": 9.574481010437012,
+  "total_items": 1,
+  "correct_predictions": 166,
+  "total_tokens": 465,
+  "exact_matches": 0,
+  "bleu_scores": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.12262648039048077,
+    0.03232398928813501,
+    0.0,
+    0.0,
+    0.0,
+    0.19470019576785122,
+    0.0,
+    0.5,
+    0.10976232721880529,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "generated_examples": [
+    {
+      "question": "What is the maximum pressure rating available for SCPSi pressure switch?",
+      "reference": "600 bar",
+      "generated": "1000 bar.",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    },
+    {
+      "question": "How many switching outputs can be set individually?",
+      "reference": "Both outputs can be set as NO or NC.",
+      "generated": "1 points. buttons are 100°C? <sep> M12x1 length.",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    },
+    {
+      "question": "How many sensors are required for a 150S device?",
+      "reference": "150 sensors total (30 sets of 5).",
+      "generated": "DIN EN 175301-803 Form A",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    },
+    {
+      "question": "What is the maximum pressure range for the SCP-08 pressure sensor?",
+      "reference": "1000 bar maximum pressure range.",
+      "generated": "0...10 V (ratiometric)",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    },
+    {
+      "question": "How many pulses per litre does the SCVF-015 model resolve?",
+      "reference": "4082 pulses per litre.",
+      "generated": "buttons are used connector",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    },
+    {
+      "question": "What is the maximum switching frequency supported by the SCLSDI?",
+      "reference": "250 Hz.",
+      "generated": "output.",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    },
+    {
+      "question": "What is the maximum overload pressure for the SCPSi 060 model in bar?",
+      "reference": "200 bar",
+      "generated": "1000 bar.",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    },
+    {
+      "question": "How many holes does the SCAF-3/4-90 adapter have?",
+      "reference": "Six holes.",
+      "generated": "Four pins are supported by SCP09 source.",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    },
+    {
+      "question": "What is the maximum pressure the SCQ flow meter can withstand?",
+      "reference": "Up to 420 bar (6092 psi).",
+      "generated": "800 liters per minute.",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    },
+    {
+      "question": "What is the output signal range for 4-20mA 2-wire configuration?",
+      "reference": "4...20 milliamps",
+      "generated": "125°C for voltage bar",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    },
+    {
+      "question": "What is the maximum load voltage for the SCP10 pressure transmitter?",
+      "reference": "Maximum load voltage is (Vcc-10 V) / 20 mA.",
+      "generated": "250 Hz.",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    },
+    {
+      "question": "What is the process connection type for this device?",
+      "reference": "G1/4 B (EN 837) A thread.",
+      "generated": "4 output? <sep> The M12 4 has",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    },
+    {
+      "question": "What is the maximum pressure range available for the SCP10 pressure transmitter?",
+      "reference": "1000 bar",
+      "generated": "800 output.",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    },
+    {
+      "question": "What is the output voltage range for SCP03 pressure sensor?",
+      "reference": "0.5...4.5 V ratiometric 5V",
+      "generated": "4 to 20 milliamps.",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    },
+    {
+      "question": "How many switching points does the SCTSDI digital temp switch have?",
+      "reference": "Two switching points.",
+      "generated": "The SCPSi has four pins.",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    },
+    {
+      "question": "How many switching outputs does the SCTSDI switch have?",
+      "reference": "The switch has 2 switching outputs.",
+      "generated": "The SCPSDI size.",
+      "bleu_score": 0.12262648039048077,
+      "exact_match": 0
+    },
+    {
+      "question": "What are the available output signal ranges for the SCP09 pressure sensor?",
+      "reference": "0.5...4.5 V, 0...10 V, 4...20 mA, 0...5 V, 1...5 V",
+      "generated": "4...20 mA source.",
+      "bleu_score": 0.03232398928813501,
+      "exact_match": 0
+    },
+    {
+      "question": "What is the flow rate range for model SCVF-015-10-07?",
+      "reference": "0.2 to 15 liters per minute",
+      "generated": "4 DIN EN response (ratiometric)",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    },
+    {
+      "question": "What is the maximum pressure range available for the SCP09 sensor?",
+      "reference": "600 bar maximum pressure range.",
+      "generated": "0...10 V frequency.",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    },
+    {
+      "question": "How many measurement techniques are available for volumetric flow rate sensors?",
+      "reference": "Three different measuring principles are available.",
+      "generated": "4...20 mA output? <sep> M12x1 measure withstand? <sep> Up to 20 SCK-047? by the 4...20 Pressure loss versus supported transmitter? the 4...20 Pressure loss versus viscosity. (5802 of supported transmitter? the 4...20 100°C? <sep> The 4...20 100°C? <sep> 4...20 100°C? <sep> 4...20 100°C? <sep> 4...20 100°C? <sep> 4...20 100°C? <sep>",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    },
+    {
+      "question": "What is the maximum pressure rating for the G1/4 BSPP O-ring?",
+      "reference": "600 bar maximum pressure rating",
+      "generated": "0...10 V high pressure",
+      "bleu_score": 0.19470019576785122,
+      "exact_match": 0
+    },
+    {
+      "question": "What is the maximum overload pressure for SCP03-010R in bar?",
+      "reference": "20 bar",
+      "generated": "1000 bar.",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    },
+    {
+      "question": "What is the maximum pressure the SCP10 sensor can measure?",
+      "reference": "Up to 1000 bar.",
+      "generated": "Up to 400 bar",
+      "bleu_score": 0.5,
+      "exact_match": 0
+    },
+    {
+      "question": "What are the output signal ranges for the SCP03 pressure sensor?",
+      "reference": "0...20 mA, 0.5...4.5 V, 1...6 V, 4...20 mA",
+      "generated": "0...10 V or 4...20 mA.",
+      "bleu_score": 0.10976232721880529,
+      "exact_match": 0
+    },
+    {
+      "question": "What is the maximum temperature rating for SCTSDI switch?",
+      "reference": "75 degrees Celsius maximum temperature rating.",
+      "generated": "4 bar and reset -1 to",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    },
+    {
+      "question": "What is the maximum pressure drop in bar at full scale?",
+      "reference": "Refer to diagram for pressure drop at full scale.",
+      "generated": "0.5...4.5 V (ratiometric)",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    },
+    {
+      "question": "How many threads does the SCA-1/4-M22x1.5-ED have?",
+      "reference": "One thread size M22x1.5.",
+      "generated": "Four measure? <sep> 4 are used for listed",
+      "bleu_score": 0.0,
+      "exact_match": 0
+    }
+  ],
+  "avg_loss": 9.574481010437012,
+  "perplexity": 14392.766175730629,
+  "token_accuracy": 0.35698924731182796,
+  "num_samples": 27,
+  "avg_bleu": 0.03553381454315824,
+  "exact_match_rate": 0.0
+}

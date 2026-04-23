@@ -1,0 +1,857 @@
+{
+  "total_loss": 1.382140874862671,
+  "total_items": 4,
+  "correct_predictions": 1483,
+  "total_tokens": 1668,
+  "exact_matches": 104,
+  "bleu_scores": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.024893534183931972,
+    1.0
+  ],
+  "generated_examples": [
+    {
+      "question": "What is the maximum switching frequency of the SCTSDI temperature switch?",
+      "reference": "250 Hz.",
+      "generated": "250 Hz.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum switching output response time?",
+      "reference": "3 milliseconds maximum.",
+      "generated": "3 milliseconds maximum.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What standards do the instruments meet according to the EU?",
+      "reference": "DIN/EN 61000-6-2 and DIN/EN 61000-6-3.",
+      "generated": "DIN/EN 61000-6-2 and DIN/EN 61000-6-3.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many pins does the M12x1 4-pole connector have?",
+      "reference": "Four pins.",
+      "generated": "Four pins.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the cable socket standard for M12 connections?",
+      "reference": "DIN EN 175301-803 Form A",
+      "generated": "DIN EN 175301-803 Form A",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum operating pressure for SCFT-600?",
+      "reference": "290 bar (4206 psi)",
+      "generated": "290 bar (4206 psi)",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the thread size for SCP04-xxx-x5-0x connector?",
+      "reference": "1/4 NPT thread size.",
+      "generated": "1/4 NPT thread size.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the thread size for the SCVF-040 model?",
+      "reference": "M8 thread size.",
+      "generated": "M8 thread size.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many pins does the M12 cable jack have?",
+      "reference": "4 pins",
+      "generated": "4 pins",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum supply voltage for the SCP11 transmitter?",
+      "reference": "27 VDC.",
+      "generated": "27 VDC.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many pressure ranges are specified for 4...20 mA output?",
+      "reference": "6 pressure ranges listed.",
+      "generated": "6 pressure ranges listed.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the model number of the volume counter?",
+      "reference": "SCVF volume counter model 1x21M",
+      "generated": "SCVF volume counter model 1x21M",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many different M12 cable jack types are specified?",
+      "reference": "Five types including straight and 90° angled versions.",
+      "generated": "Five types including straight and 90° angled versions.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the output signal range for the SCP04 pressure sensor?",
+      "reference": "0...10 V or 4...20 mA.",
+      "generated": "0...10 V or 4...20 mA.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum ambient temperature for the device?",
+      "reference": "30 degrees Celsius",
+      "generated": "30 degrees Celsius",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the required torque for the screw plug hole?",
+      "reference": "30 Newton meters torque required.",
+      "generated": "30 Newton meters torque required.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many switching points does the SCPSDI pressure switch have?",
+      "reference": "The SCPSDI pressure switch has 2 switching points.",
+      "generated": "The SCPSDI pressure switch has 2 switching points.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum installation torque for the process connection?",
+      "reference": "35 Nm.",
+      "generated": "35 Nm.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many M12 cable jacks are shown in the diagram?",
+      "reference": "Two M12 cable jacks shown.",
+      "generated": "Two M12 cable jacks shown.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What pressure range is supported by the measuring element?",
+      "reference": "Up to 600 bar.",
+      "generated": "Up to 600 bar.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the measuring range of the SCP03 pressure sensor in bar?",
+      "reference": "From -1 to 1000 bar.",
+      "generated": "From -1 to 1000 bar.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the part number for the FKM seal?",
+      "reference": "The part number is 175301-803-A.",
+      "generated": "The part number is 175301-803-A.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the flow rate range for the CQ-150 model?",
+      "reference": "-150 to +150 liters per minute",
+      "generated": "-150 to +150 liters per minute",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the pressure range of the SCP04 pressure sensor?",
+      "reference": "0 to 4 bar",
+      "generated": "0 to 4 bar",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many M12 connector types are shown?",
+      "reference": "Three types shown.",
+      "generated": "Three types shown.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What pressure ratings are supported by the SCP08 sensor?",
+      "reference": "250, 400, 600, and 1000 bar.",
+      "generated": "250, 400, 600, and 1000 bar.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the measuring range of the temperature switch?",
+      "reference": "-20°C to 85°C.",
+      "generated": "-20°C to 85°C.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the pressure range of the switching points?",
+      "reference": "4 bar pressure range.",
+      "generated": "4 bar pressure range.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many threads are specified for the process connection?",
+      "reference": "Four threads listed for process connection.",
+      "generated": "Four threads listed for process connection.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the electrical output range for 4-20mA sensors?",
+      "reference": "4...20 mA (3-wire) or 4...20 mA (2-wire)",
+      "generated": "4...20 mA (3-wire) or 4...20 mA (2-wire)",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum flow rate measurable by the SCFT turbine?",
+      "reference": "800 liters per minute.",
+      "generated": "800 liters per minute.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many switching points does the SCLTSDI-xxx-00-07 model have?",
+      "reference": "The SCLTSDI-xxx-00-07 model has 2 switching points.",
+      "generated": "The SCLTSDI-xxx-00-07 model has 2 switching points.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the thread size of the 4-pole DIN connector?",
+      "reference": "M12x1 thread size.",
+      "generated": "M12x1 thread size.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What design feature prevents leakage in the SCP11 sensor?",
+      "reference": "Monolithic design eliminates internal seals.",
+      "generated": "Monolithic design eliminates internal seals.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum overload pressure for the 100 bar sensor?",
+      "reference": "200 bar.",
+      "generated": "200 bar.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the output signal range for the pressure sensor SCP03?",
+      "reference": "4...20 mA (3-wire) or 0...10 V",
+      "generated": "4...20 mA (3-wire) or 0...10 V",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What does the SCVF volume counter measure?",
+      "reference": "Pressure loss versus viscosity.",
+      "generated": "Pressure loss versus viscosity.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum operating temperature for the SCP09 sensor?",
+      "reference": "125°C for storage and operating media.",
+      "generated": "125°C for storage and operating media.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What pin configuration does the SCK cable support?",
+      "reference": "M12 plug with DIN EN 175301 connector",
+      "generated": "M12 plug with DIN EN 175301 connector",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum pressure rating for SCP03 sensors?",
+      "reference": "Up to 1000 bar.",
+      "generated": "Up to 1000 bar.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many pressure ranges are listed for the SCP10 transmitter?",
+      "reference": "10 pressure ranges listed.",
+      "generated": "10 pressure ranges listed.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many connection cable options are available for SCFT-016G-2U-07?",
+      "reference": "Three options: 2 m, 5 m, and 10 m.",
+      "generated": "Three options: 2 m, 5 m, and 10 m.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many pins are required for PT1000 sensor connection?",
+      "reference": "Pin 1, 2, 3, and 4 are used for PT1000 connection.",
+      "generated": "Pin 1, 2, 3, and 4 are used for PT1000 connection.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the minimum measuring range for the SCLSDI-250?",
+      "reference": "30 mm",
+      "generated": "30 mm",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum pressure rating for SCP09?",
+      "reference": "Up to 600 bar.",
+      "generated": "Up to 600 bar.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many pins does the M12 4P connector have?",
+      "reference": "The M12 4P connector has four pins.",
+      "generated": "The M12 4P connector has four pins.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the Fahrenheit equivalent of 100°C?",
+      "reference": "212°F",
+      "generated": "212°F",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What are the three main measurement types covered by the SCPSDI I/O-Link Switch family?",
+      "reference": "Pressure, temperature, and level monitoring.",
+      "generated": "Pressure, temperature, and level monitoring.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the output signal range for 0-250 bar pressure measurement?",
+      "reference": "0.5...4.5 V (ratiometric)",
+      "generated": "0.5...4.5 V (ratiometric)",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the thread specification for the pressure sensor connector?",
+      "reference": "7/16-20 UNF thread standard",
+      "generated": "7/16-20 UNF thread standard",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many liters per minute can SCFT-600-22-07 measure?",
+      "reference": "15 to 600 liters per minute",
+      "generated": "15 to 600 liters per minute",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many pole versions are compatible with the 5-pole cable?",
+      "reference": "4-pole and 5-pole versions are compatible.",
+      "generated": "4-pole and 5-pole versions are compatible.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What material are the sensor housings made of?",
+      "reference": "Stainless steel.",
+      "generated": "Stainless steel.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many display types are available for level monitoring?",
+      "reference": "Level and temperature display options.",
+      "generated": "Level and temperature display options.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the range of the analogue output in milliamps?",
+      "reference": "4 to 20 milliamps.",
+      "generated": "4 to 20 milliamps.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the digit height of the display?",
+      "reference": "8 mm.",
+      "generated": "8 mm.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many switching outputs does the SCPSi pressure switch have?",
+      "reference": "The SCPSi has two switching outputs.",
+      "generated": "The SCPSi has two switching outputs.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum overload pressure for the SCP11 transmitter?",
+      "reference": "2 x P relative.",
+      "generated": "2 x P relative.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum measuring range of the SCLSDI level switch?",
+      "reference": "Measuring range up to 1000mm.",
+      "generated": "Measuring range up to 1000mm.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many cable connections does the SCP10 pressure transmitter have?",
+      "reference": "Two cable connections are provided.",
+      "generated": "Two cable connections are provided.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the ambient temperature range for the SCTSDI switch?",
+      "reference": "-20 °C to +85 °C",
+      "generated": "-20 °C to +85 °C",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the voltage range specification for the temperature sensor?",
+      "reference": "0.5 to 4.5 volts ratiometric output",
+      "generated": "0.5 to 4.5 volts ratiometric output",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What voltage type is recommended for sensor power feed?",
+      "reference": "A low-noise, high-quality, constant voltage source.",
+      "generated": "A low-noise, high-quality, constant voltage source.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the torque value for the SCVF-060 model?",
+      "reference": "120 Nm",
+      "generated": "120 Nm",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many analogue outputs does the IO-Link module support?",
+      "reference": "One analogue output.",
+      "generated": "One analogue output.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the voltage range for analogue output in SCPSDI-xxx-x4-x7?",
+      "reference": "0..10 V analogue output.",
+      "generated": "0..10 V analogue output.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many process connections are specified for the device?",
+      "reference": "Four process connections specified.",
+      "generated": "Four process connections specified.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum pressure rating for the SCT03 temperature sensor?",
+      "reference": "700 bar for FKM sealing.",
+      "generated": "700 bar for FKM sealing.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many pin connector is required for voltage output?",
+      "reference": "5-pin connector required.",
+      "generated": "5-pin connector required.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many cable length options are available for the process connection?",
+      "reference": "Three cable length options: 2m, 5m, and 10m.",
+      "generated": "Three cable length options: 2m, 5m, and 10m.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many tactile buttons are provided for operation?",
+      "reference": "Three tactile buttons are provided.",
+      "generated": "Three tactile buttons are provided.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What connector type is used for SCLSDI-xxx-00-07?",
+      "reference": "M12x1 connector; 4-Pin",
+      "generated": "M12x1 connector; 4-Pin",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum media temperature range for the SCT03 sensor?",
+      "reference": "-50 to +150°C temperature range.",
+      "generated": "-50 to +150°C temperature range.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum pressure the SCVF counter can withstand?",
+      "reference": "Up to 400 bar (5802 psi).",
+      "generated": "Up to 400 bar (5802 psi).",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the output signal range specified in the technical drawing?",
+      "reference": "4...20 mA current loop signal",
+      "generated": "4...20 mA current loop signal",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the cable length for SCK-400-xx-45 connection cable?",
+      "reference": "2 meters length specified.",
+      "generated": "2 meters length specified.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many pins does the SCT03 sensor have?",
+      "reference": "Four pins.",
+      "generated": "Four pins.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many bar pressure can SCVF sensor withstand?",
+      "reference": "Up to 420 bar (6092 psi).",
+      "generated": "Up to 420 bar (6092 psi).",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the measuring range for the SCLSDI-250 model?",
+      "reference": "30…215 mm",
+      "generated": "30…215 mm",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum supply voltage for V+?",
+      "reference": "32 VDC.",
+      "generated": "32 VDC.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum overload pressure for the 1000 bar model?",
+      "reference": "1200 bar.",
+      "generated": "1200 bar.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many different M12 connector types are specified?",
+      "reference": "Four types listed including straight and angled versions.",
+      "generated": "Four types listed including straight and angled versions.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the measuring temperature range for all SCLSDI models?",
+      "reference": "-20°C to +85°C",
+      "generated": "-20°C to +85°C",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many pages are dedicated to pressure sensor selection guides?",
+      "reference": "Two pages (6 and 7).",
+      "generated": "Two pages (6 and 7).",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum pressure range option for SCP11?",
+      "reference": "1000 bar",
+      "generated": "1000 bar",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum overload pressure for the SCP04 sensor?",
+      "reference": "2 x Pn relative bar.",
+      "generated": "2 x Pn relative bar.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What pressure ranges do SCP09 and SCP10 sensors measure?",
+      "reference": "SCP09 and SCP10 measure mid and high pressure ranges.",
+      "generated": "SCP09 and SCP10 measure mid and high pressure ranges.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum load resistance for 12 VDC supply?",
+      "reference": "4.7 kΩ maximum load resistance.",
+      "generated": "4.7 kΩ maximum load resistance.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum switching frequency for process data?",
+      "reference": "250 Hz maximum switching frequency.",
+      "generated": "250 Hz maximum switching frequency.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many different reducing adapters are specified?",
+      "reference": "Two reducing adapters are specified.",
+      "generated": "Two reducing adapters are specified.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many temperature units are supported by the SCLTSDI switch?",
+      "reference": "Celsius and Fahrenheit.",
+      "generated": "Celsius and Fahrenheit.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the maximum switching frequency for this device?",
+      "reference": "250 Hz maximum switching frequency.",
+      "generated": "250 Hz maximum switching frequency.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many meters is the maximum installation length for 4..20 mA output?",
+      "reference": "1000 meters maximum installation length.",
+      "generated": "1000 meters maximum installation length.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many M12 cable jack types are described?",
+      "reference": "Four types described.",
+      "generated": "Four types described.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many switching cycles can the SCPSDI withstand?",
+      "reference": "10 million switching cycles.",
+      "generated": "10 million switching cycles.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many meters is the standard cable length?",
+      "reference": "5 meters standard length.",
+      "generated": "5 meters standard length.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many analogue output connections are specified?",
+      "reference": "Two analogue output connections.",
+      "generated": "Two analogue output connections.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many SCK-145 replacements are listed for old order number SCK-047?",
+      "reference": "One replacement listed.",
+      "generated": "One replacement listed.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many pressure sensor models are mentioned in the document?",
+      "reference": "One model SCP04 is described.",
+      "generated": "One model SCP04 is described.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the output signal range for the SCT03 temperature sensor?",
+      "reference": "4...20 mA (2-wire)",
+      "generated": "4...20 mA (2-wire)",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many measurement turbine models are listed in the catalogue?",
+      "reference": "Six models are listed: SCFT-015 to SCFT-800.",
+      "generated": "Six models are listed: SCFT-015 to SCFT-800.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What temperature probe is specified for SCT03?",
+      "reference": "PT1000 temperature probe.",
+      "generated": "PT1000 temperature probe.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "What is the pressure range for SCP03-xxx-xx-xxQ8 model?",
+      "reference": "-1 to 3 bar pressure range.",
+      "generated": "-1 to 3 bar pressure range.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    },
+    {
+      "question": "How many pins does the SCPSDI-xxx-x4-x5 connector have?",
+      "reference": "Four pins are required for the SCPSDI-xxx-x4-x5 connector.",
+      "generated": "Four pins.",
+      "bleu_score": 0.024893534183931972,
+      "exact_match": 0
+    },
+    {
+      "question": "What is the minimum adjustable difference between switching point and reset point?",
+      "reference": "1 degree Celsius.",
+      "generated": "1 degree Celsius.",
+      "bleu_score": 1.0,
+      "exact_match": 1
+    }
+  ],
+  "avg_loss": 0.3455352187156677,
+  "perplexity": 1.412745845373747,
+  "token_accuracy": 0.8890887290167866,
+  "num_samples": 105,
+  "avg_bleu": 0.9907132717541327,
+  "exact_match_rate": 0.9904761904761905
+}
