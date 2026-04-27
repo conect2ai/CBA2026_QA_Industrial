@@ -59,15 +59,18 @@ CBA2026_QA_INDUSTRIAL/
 * **Ollama** must be installed locally to run Qwen3‑Coder for dataset generation.
 * **Arduino IDE** or **PlatformIO** is required for ESP32 deployment.
 
-Clone the repository and create a virtual environment:
+Clone the repository:
 
 ```bash
 git clone https://github.com/<your-org>/Extreme-TinyGPT-Industrial-QA.git
 cd Extreme-TinyGPT-Industrial-QA
+```
+
+
+Create a virtual environment:
+
+```bash
 python -m venv venv
-source venv/bin/activate      # Linux/macOS
-venv\Scripts\activate         # Windows
-pip install -r requirements.txt
 ```
 
 Activate the environment:
